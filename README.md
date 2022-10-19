@@ -1,2 +1,2 @@
 # git215_setup
-GIT215 Setup
+## Author: Lee Nelson
